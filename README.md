@@ -1,6 +1,7 @@
 # ValidaFormulario 
 Esse projeto foi realizado durante o curso na Alura sobre JavaScript para Web com o objetivo de aprender: HTML, CSS e JavaScript.
-Nesse projeto é uma página de formulário de um Pet Shop - Doguito
+Esse projeto é uma página de formulário de um Pet Shop - Doguito
+🐕🐕🐕
 
 Criei primeiro o formulário de cadastro de pessoa no site da doguito pet shop, com a intenção de validar o formulário usando apenas HTML. 
 No campo de nome foi usado o atributo required, para poder dizer que nós queremos que o campo seja preenchido antes de ser enviado para o servidor.
